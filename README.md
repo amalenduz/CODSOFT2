@@ -21,4 +21,4 @@ A basic calculator built using HTML, CSS, and JavaScript.
 3. Start calculating!
 
 ## Live Demo
-[Click here to view live](https://yourusername.github.io/reponame/codsoft2/calculator.html)
+[Click here to view live](https://amalenduz.github.io/CODSOFT2/calculator.html)
